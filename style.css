@@ -30,3 +30,6 @@ button{
     margin-top: 10px;
 }
 
+.highlight {
+  background-color: yellow;
+}
